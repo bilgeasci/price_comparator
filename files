@@ -1,0 +1,5 @@
+[remote "origin"]
+    url = https://github.com/bilgeasci/htmlbasics.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
+
+
